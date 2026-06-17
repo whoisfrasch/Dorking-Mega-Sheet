@@ -27,7 +27,7 @@ Google has effectively killed `cache:`, `+`, and `link:`, and `AROUND` is unreli
 
 ---
 
-## PART A — TECHNICAL (Browser-Only)
+## PART A — TECHNICAL 
 
 ### A1. Config / Secret Files
 
